@@ -7,12 +7,13 @@ I am interested in developing efficient, fast, and slim systems, with the object
 🏠 &emsp; Porto, Portugal  
 🏢 &emsp; Software Engineer @ INEGI  
 🧑‍🎓 &emsp; MSc in Informatics and Computing Engineering  
-📧 &emsp; joao.campos1221 @ gmail.com
-
 💻 &emsp;
 ![nixos](https://img.shields.io/badge/NixOS-%235277C3?style=flat&logo=nixos&logoColor=white)
 ![vscode](https://img.shields.io/badge/VSCode-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![firefox](https://img.shields.io/badge/Firefox-%23FF7139?style=flat&logo=firefoxbrowser&logoColor=white)
+
+[![Mail][MailBadge]][MailLink]  
+[![In][InBadge]][InLink]
 
 **Experienced in**  
 ![badge](https://img.shields.io/badge/C%23-%23512BD4?style=flat&logo=csharp&logoColor=white)
@@ -40,3 +41,8 @@ I am interested in developing efficient, fast, and slim systems, with the object
 ![badge](https://img.shields.io/badge/OCaml-%23EC6813?style=flat&logo=ocaml&logoColor=white)
 ![badge](https://img.shields.io/badge/Deno-%23000000?style=flat&logo=deno&logoColor=white)
 ![badge](https://img.shields.io/badge/Vim-%23019733?style=flat&logo=vim&logoColor=white)
+
+[MailBadge]: https://img.shields.io/badge/joao.campos1221%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white
+[MailLink]: mailto:joao.campos1221%40gmail.com
+[InBadge]: https://img.shields.io/badge/jp--campos-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+[InLink]: https://www.linkedin.com/in/jp-campos/
