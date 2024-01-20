@@ -1,6 +1,8 @@
 ### Olá 👋 &emsp; welcome to my profile
 
-**I am João Campos and I am a Software Enginner.**
+**I am João Campos and I am a Software Enginner.**  I currently work in the digitalization of industry, mainly
+through *augmented reality*, *digital twins of industrial processes and products*, and *real-time scene reconstruction*.
+I am interested in developing efficient, fast, and slim systems, with the objective of optimizing usage of resources.
 
 🏠 &emsp; Porto, Portugal  
 🏢 &emsp; Software Engineer @ INEGI  
