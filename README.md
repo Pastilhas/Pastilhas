@@ -16,7 +16,7 @@ I am interested in developing efficient, fast, and slim systems, with the object
 [![In][InBadge]][InLink]
 
 <details>
-  <summary>Skills & Technologies</summary>
+  <summary><b>Skills & Technologies</b></summary>
   
 **Experienced in**  
 ![badge](https://img.shields.io/badge/C%23-%23512BD4?style=flat&logo=csharp&logoColor=white)
@@ -41,9 +41,10 @@ I am interested in developing efficient, fast, and slim systems, with the object
 **Good at / Learning**  
 ![badge](https://img.shields.io/badge/C%2FC%2B%2B-%2300599C?style=flat&logo=cplusplus&logoColor=white)
 ![badge](https://img.shields.io/badge/Vlang-%235D87BF?style=flat&logo=v&logoColor=white)
-![badge](https://img.shields.io/badge/OCaml-%23EC6813?style=flat&logo=ocaml&logoColor=white)
+![badge](https://img.shields.io/badge/OCaml-%23EC6813?style=flat&logo=ocaml&logoColor=white)  
 ![badge](https://img.shields.io/badge/Deno-%23000000?style=flat&logo=deno&logoColor=white)
 ![badge](https://img.shields.io/badge/Vim-%23019733?style=flat&logo=vim&logoColor=white)
+![badge](https://img.shields.io/badge/Go-%2300ADD8?style=flat&logo=go&logoColor=white)
   
 </details>
 
