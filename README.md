@@ -48,6 +48,18 @@ I am interested in developing efficient, fast, and slim systems, with the object
   
 </details>
 
+<details>
+  <summary><b>Non-technical knowledge</b></summary>
+
+Portuguese Native  
+English    Professional  
+Spanish    Basic  
+Slovak     Basic
+
+Project Management  
+Documentation nitpicker
+  
+</details>
 
 [MailBadge]: https://img.shields.io/badge/joao.campos1221%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white
 [MailLink]: mailto:joao.campos1221%40gmail.com
