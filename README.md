@@ -31,7 +31,7 @@ I am interested in developing efficient, fast, and slim systems, with the object
 ![badge](https://img.shields.io/badge/ElasticSearch-%23005571?style=flat&logo=elasticsearch&logoColor=white)  
 ![badge](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
 ![badge](https://img.shields.io/badge/NodeRED-%238F0000?style=flat&logo=nodered&logoColor=white)
-![badge](https://img.shields.io/badge/Nodejs-%23339933?style=flat&logo=nodedotjs&logoColor=white)  
+![badge](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=nodedotjs&logoColor=white)  
 ![badge](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white)
 ![badge](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)
 ![badge](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white)  
