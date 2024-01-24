@@ -6,11 +6,11 @@ I am interested in developing efficient, fast, and slim systems, with the object
 
 🏠 &emsp; Porto, Portugal  
 🏢 &emsp; Software Engineer @ [INEGI](http://www.inegi.pt)  
-🧑‍🎓 &emsp; [MSc in Informatics and Computing Engineering](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742)  
+🧑‍🎓 &emsp; [MSc in Informatics and Computing Engineering][DegreeLink]  
 💻 &emsp;
-![nixos](https://img.shields.io/badge/NixOS-%235277C3?style=flat&logo=nixos&logoColor=white)
-![vscode](https://img.shields.io/badge/VSCode-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![firefox](https://img.shields.io/badge/Firefox-%23FF7139?style=flat&logo=firefoxbrowser&logoColor=white)
+[![Nix][NixBadge]][NixLink]
+[![Code][CodeBadge]][CodeLink]
+[![Firefox][FirefoxBadge]][FirefoxLink]
 
 [![Mail][MailBadge]][MailLink]  
 [![In][InBadge]][InLink]
@@ -61,6 +61,13 @@ Documentation nitpicker
   
 </details>
 
+[DegreeLink]: https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742
+[FirefoxBadge]: https://img.shields.io/badge/Firefox-%23FF7139?style=flat&logo=firefoxbrowser&logoColor=white
+[FirefoxLink]: https://www.mozilla.org/en-US/firefox/new/
+[CodeBadge]: https://img.shields.io/badge/VSCode-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white
+[CodeLink]: https://code.visualstudio.com/
+[NixBadge]: https://img.shields.io/badge/NixOS-%235277C3?style=flat&logo=nixos&logoColor=white
+[NixLink]: https://nixos.org/
 [MailBadge]: https://img.shields.io/badge/joao.campos1221%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white
 [MailLink]: mailto:joao.campos1221%40gmail.com
 [InBadge]: https://img.shields.io/badge/jp--campos-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white
