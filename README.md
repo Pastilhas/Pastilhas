@@ -5,8 +5,8 @@ through *augmented reality*, *digital twins of industrial processes and products
 I am interested in developing efficient, fast, and slim systems, with the objective of optimizing usage of resources.
 
 🏠 &emsp; Porto, Portugal  
-🏢 &emsp; Software Engineer @ INEGI  
-🧑‍🎓 &emsp; MSc in Informatics and Computing Engineering  
+🏢 &emsp; Software Engineer @ [INEGI](http://www.inegi.pt)  
+🧑‍🎓 &emsp; [MSc in Informatics and Computing Engineering](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742)  
 💻 &emsp;
 ![nixos](https://img.shields.io/badge/NixOS-%235277C3?style=flat&logo=nixos&logoColor=white)
 ![vscode](https://img.shields.io/badge/VSCode-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white)
