@@ -4,11 +4,11 @@
 through *augmented reality*, *digital twins of industrial processes and products*, and *real-time scene reconstruction*.
 I am interested in developing efficient, fast, and slim systems, with the objective of optimizing usage of resources.
 
-🏠 &emsp; Porto, Portugal  
-🏢 &emsp; Software Engineer @ **[INEGI](https://www.inegi.pt)**  
-🧑‍🎓 &emsp; **[MSc in Informatics and Computing Engineering][DegreeLink]**  
-
 <div align="center" style="flex"> 
+
+<h3><a href="#"> 🏠 Porto, Portugal 🏠 </a></h3>
+<h3><a href="https://www.inegi.pt"> 🏢 Software Engineer @ INEGI 🏢 </a></h3>
+<h3><a href="https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742"> 🧑‍🎓 MSc in Informatics and Computing Engineering 🧑‍🎓 </a></h3>
 
 ### Tools
 
@@ -35,5 +35,3 @@ Project Management
 Documentation nitpicker
   
 </details>
-
-[DegreeLink]:   https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742
