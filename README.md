@@ -6,13 +6,13 @@ I am interested in developing efficient, fast, and slim systems, with the object
 
 &nbsp; &nbsp; &nbsp; &nbsp;
 
-&nbsp; &nbsp; &nbsp; &nbsp;
-
 <div align="center" style="flex"> 
 
 <h3><a href="#"> 🏠 Porto, Portugal 🏠 </a></h3>
 <h3><a href="https://www.inegi.pt"> 🏢 Software Engineer @ INEGI 🏢 </a></h3>
 <h3><a href="https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742"> 🧑‍🎓 MSc in Informatics and Computing Engineering 🧑‍🎓 </a></h3>
+
+&nbsp; &nbsp; &nbsp; &nbsp;
 
 ### Tools
 
