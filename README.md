@@ -2,7 +2,7 @@
 
 <h3> Olá 👋 &emsp; welcome to my profile </h3>
 
-<div><b>I am João Campos and I am a Software Enginner.</b> I currently work in the digitalization of industry, mainly through *augmented reality*, *digital twins of industrial processes and products*, and *real-time scene reconstruction*. I am interested in developing efficient, fast, and slim systems, with the objective of optimizing usage of resources.</div>
+<div><b>I am João Campos and I am a Software Enginner.</b> I currently work in the digitalization of industry, mainly through <i>augmented reality</i>, <i>digital twins of industrial processes and products</i>, and <i>real-time scene reconstruction</i>. I am interested in developing efficient, fast, and slim systems, with the objective of optimizing usage of resources.</div>
 
 &nbsp; &nbsp; &nbsp; &nbsp;
 
