@@ -4,6 +4,10 @@
 through *augmented reality*, *digital twins of industrial processes and products*, and *real-time scene reconstruction*.
 I am interested in developing efficient, fast, and slim systems, with the objective of optimizing usage of resources.
 
+&nbsp; &nbsp; &nbsp; &nbsp;
+
+&nbsp; &nbsp; &nbsp; &nbsp;
+
 <div align="center" style="flex"> 
 
 <h3><a href="#"> 🏠 Porto, Portugal 🏠 </a></h3>
