@@ -7,7 +7,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp;
 
 <h3><a href="#"> 🏠 Porto, Portugal 🏠 </a></h3>
-<h3><a href="#"> 💬 🇵🇹 (Native), 🇬🇧 (Professional), 🇪🇸, 🇸🇰 💬 </a></h3>
+<h3><a href="#"> 💬 🇵🇹 Native, 🇬🇧 Pro 💬 </a></h3>
 <h3><a href="https://www.inegi.pt"> 🏢 Software Engineer @ INEGI 🏢 </a></h3>
 <h3><a href="https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742"> 🧑‍🎓 MSc in Informatics and Computing Engineering 🧑‍🎓 </a></h3>
 
@@ -15,15 +15,15 @@
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,nix,git,docker,unity,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,nix,git,docker,unity,vscode&perline=3)]()
 
 ### Experienced in
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,java,rust,python,lua,bash,js,ts,react,nodejs,elasticsearch,mongodb&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,java,rust,python,lua,bash,js,ts,react,nodejs,elasticsearch,mongodb&perline=5)]()
   
 ### Learning
 
-[![My Skills](https://skillicons.dev/icons?i=v,ocaml,deno,go&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=v,ocaml,deno,go&perline=4)]()
 
 &nbsp; &nbsp; &nbsp; &nbsp;
 
