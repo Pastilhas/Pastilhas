@@ -19,7 +19,7 @@
 
 ### Experienced in
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,java,rust,python,lua,bash,js,ts,react,nodejs,elasticsearch,mongodb&perline=5)]()
+[![My Skills](https://skillicons.dev/icons?i=cs,python,lua,bash,js,ts,react,nodejs,elasticsearch,mongodb&perline=5)]()
   
 ### Learning
 
