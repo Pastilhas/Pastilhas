@@ -1,37 +1,25 @@
-<div align="center" style="flex">
+# Olá 👋 and welcome to my profile
 
-<h3> Olá 👋 &emsp; welcome to my profile </h3>
-
-<div><b>I am João Campos and I am a Software Enginner.</b> I currently work in the digitalization of industry, mainly through <i>augmented reality</i>, <i>digital twins of industrial processes and products</i>, and <i>real-time scene reconstruction</i>. I am interested in developing efficient, fast, and slim systems, with the objective of optimizing usage of resources.</div>
+**I am João Campos and I am a Software Enginner**. I currently work in the digitalization of industry, mainly through <i>augmented reality</i>, <i>digital twins of industrial processes and products</i>, and <i>real-time scene reconstruction</i>. I am interested in developing efficient, fast, and slim systems, with the objective of optimizing usage of resources.
 
 &nbsp; &nbsp; &nbsp; &nbsp;
 
-<h3><a href="#"> 🏠 Porto, Portugal 🏠 </a></h3>
-<h3><a href="#"> 💬 🇵🇹 Native, 🇬🇧 Pro 💬 </a></h3>
-<h3><a href="https://www.inegi.pt" target="_blank" rel="noopener noreferrer"> 🏢 Software Engineer @ INEGI 🏢 </a></h3>
-<h3><a href="https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742" target="_blank" rel="noopener noreferrer"> 🧑‍🎓 MSc in Informatics and Computing Engineering 🧑‍🎓 </a></h3>
+🏠 Porto, Portugal 🏠 
 
-&nbsp; &nbsp; &nbsp; &nbsp;
+💬 🇵🇹 Native, 🇬🇧 Pro 💬 
+
+[🏢 Software Engineer @ INEGI 🏢 ](https://www.inegi.pt)
+
+[🧑‍🎓 MSc in Informatics and Computing Engineering 🧑‍🎓 ](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742)
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,nix,git,docker,unity,vscode&perline=3)]()
+[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,unity,vscode&perline=3)](#)
 
 ### Experienced in
 
-[![My Skills](https://skillicons.dev/icons?i=cs,python,lua,bash,js,ts,react,nodejs,elasticsearch,mongodb&perline=5)]()
+[![My Skills](https://skillicons.dev/icons?i=cs,python,bash,js,ts,react,nodejs,v&perline=5)](#)
   
 ### Learning
 
-[![My Skills](https://skillicons.dev/icons?i=v,ocaml,deno,go&perline=4)]()
-
-&nbsp; &nbsp; &nbsp; &nbsp;
-
-</div>
-<details>
-  <summary><b>Non-technical knowledge</b></summary>
-
-Project Management  
-Documentation nitpicker
-  
-</details>
+[![My Skills](https://skillicons.dev/icons?i=ocaml,deno,go&perline=4)](#)
